@@ -76,7 +76,7 @@ Total amount spent by the customer.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Pandas
