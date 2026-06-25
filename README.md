@@ -162,7 +162,7 @@ The generated customer segments can be used for:
 
 **Pragati Maurya**
 
-GitHub: https://github.com/PragatiMaurya16
+B.Tech Student | Machine Learning & Data Science Enthusiast | Aspiring Python Developer and Data Scientist
 
 ---
 
