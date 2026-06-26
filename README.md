@@ -8,6 +8,12 @@ The goal is to identify distinct customer groups and help businesses create targ
 
 ---
 
+## App
+
+Live Demo - https://shopper-spectrum-rfm.streamlit.app/
+
+---
+
 ## Features
 
 * Customer segmentation using RFM metrics
